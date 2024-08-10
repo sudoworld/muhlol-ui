@@ -11,3 +11,6 @@ Since there were already questions in the Discord. No, this UI will not be avail
 I can't say how long it will take to produce a version because I keep finding new errors and I just don't want to release a buggy version.
 
 ![](https://muh.lol/i/muhlol-ui.jpg)
+
+
+Support and Questions: https://github.com/sudoworld/muhlol-ui/issues od Discord @ christian_oi
