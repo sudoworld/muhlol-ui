@@ -13,4 +13,4 @@ I can't say how long it will take to produce a version because I keep finding ne
 ![](https://muh.lol/i/muhlol-ui.jpg)
 
 
-Support and questions: https://github.com/sudoworld/muhlol-ui/issues od Discord @ christian_oi
+Support and questions: https://github.com/sudoworld/muhlol-ui/issues or Discord @ christian_oi
